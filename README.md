@@ -11,4 +11,5 @@
 
 ----
 
-      Demo Link: https://youtu.be/yi7u-8JQCfs
+      Demo Link: 
+      [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/yi7u-8JQCfs)

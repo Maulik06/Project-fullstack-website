@@ -1,31 +1,9 @@
 CS 546  Fall 2017 Final Project
 
-
-Team :- Pirates of the Web
-
 Project Title :- 
 Construction Project Cost Estimation
 
-
-
 Project Demo Link:    https://youtu.be/yi7u-8JQCfs
-
-Group Members:
-
-
-
-	1. Brijesh Makani(10430284)
-
-	2. Charmi Bhikadiya(10412409)
-
-	3. Maulik Jajal(10421667)
-
-	4, Megh Vankawala(10421684)
-
-	5. Rimaben Patel(10422512)
-
-
-
 
 Type of Users: Vendors and Estimators 
 

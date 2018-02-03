@@ -1,4 +1,4 @@
-# Project Title: Construction Project Cost Estimator
+# Project Title: Construction Project Cost Estimation
 
     Description: This project helps to estimate total construction project cost based on 
                 item/material requirement and vendor pricing.
